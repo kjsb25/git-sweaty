@@ -7307,6 +7307,24 @@
       "type": "StairStepper",
       "url": "https://www.strava.com/activities/17525537375",
       "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 11,
+      "name": "24% of goal\ufe0f completed! - Oura",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17544684699",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 17,
+      "name": "Denver Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17547155552",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13873,6 +13891,15 @@
           "distance": 4950.3,
           "elevation_gain": 22.3,
           "moving_time": 1911.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "17547155552"
+          ],
+          "count": 1,
+          "distance": 5709.4,
+          "elevation_gain": 22.0,
+          "moving_time": 1999.0
         }
       },
       "StairStepper": {
@@ -13958,6 +13985,15 @@
           "distance": 1751.8,
           "elevation_gain": 13.2,
           "moving_time": 1159.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "17544684699"
+          ],
+          "count": 1,
+          "distance": 2033.4,
+          "elevation_gain": 17.2,
+          "moving_time": 1197.0
         }
       },
       "WeightTraining": {
@@ -14073,7 +14109,7 @@
       }
     }
   },
-  "generated_at": "2026-02-27T15:46:02.566435+00:00",
+  "generated_at": "2026-02-28T15:31:38.940112+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
