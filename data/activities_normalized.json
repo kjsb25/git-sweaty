@@ -10580,5 +10580,18 @@
     "start_date_local": "2026-02-27T17:10:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17748513721",
+    "moving_time": 4493.0,
+    "name": "Monday Lift (- HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-16T17:03:07Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
