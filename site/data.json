@@ -7334,6 +7334,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17748513721",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 5,
+      "name": "Thursday Lift (- HR)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17778557994",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14123,11 +14132,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4493.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17778557994"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4479.0
         }
       }
     }
   },
-  "generated_at": "2026-03-18T16:13:23.434827+00:00",
+  "generated_at": "2026-03-19T16:01:52.766280+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
