@@ -10645,5 +10645,18 @@
     "start_date_local": "2026-04-07T06:07:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18049228774",
+    "moving_time": 6174.0,
+    "name": "Thursday Lift (- HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-09T19:41:01Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
