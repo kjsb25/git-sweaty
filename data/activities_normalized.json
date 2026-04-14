@@ -10658,5 +10658,31 @@
     "start_date_local": "2026-04-09T19:41:01Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18104545891",
+    "moving_time": 5236.0,
+    "name": "Tuesday Lift (- HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-14T05:56:58Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 1341.2,
+    "elevation_gain": 0.0,
+    "id": "18104582827",
+    "moving_time": 1239.0,
+    "name": "Tuesday Lift (119 HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-14T06:04:16Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
