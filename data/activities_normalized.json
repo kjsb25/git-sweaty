@@ -10684,5 +10684,31 @@
     "start_date_local": "2026-04-14T06:04:16Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18197139585",
+    "moving_time": 1505.0,
+    "name": "Stairs, so many stairs\u2600\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-21T06:26:08Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 43.6,
+    "elevation_gain": 0.0,
+    "id": "18197157235",
+    "moving_time": 20.0,
+    "name": "16% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-04-21T06:31:22Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]

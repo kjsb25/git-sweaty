@@ -7397,6 +7397,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18104582827",
       "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 6,
+      "name": "Stairs, so many stairs\u2600\ufe0f",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18197139585",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 6,
+      "name": "16% of goal\ufe0f completed! - Oura",
+      "subtype": "StairStepper",
+      "type": "StairStepper",
+      "url": "https://www.strava.com/activities/18197157235",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14011,6 +14029,15 @@
           "distance": 220.5,
           "elevation_gain": 0.0,
           "moving_time": 290.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18197157235"
+          ],
+          "count": 1,
+          "distance": 43.6,
+          "elevation_gain": 0.0,
+          "moving_time": 20.0
         }
       },
       "Walk": {
@@ -14234,10 +14261,21 @@
           "elevation_gain": 0.0,
           "moving_time": 6475.0
         }
+      },
+      "Workout": {
+        "2026-04-21": {
+          "activity_ids": [
+            "18197139585"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1505.0
+        }
       }
     }
   },
-  "generated_at": "2026-04-20T16:17:47.056021+00:00",
+  "generated_at": "2026-04-21T16:17:32.022453+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
