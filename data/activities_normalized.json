@@ -10736,5 +10736,18 @@
     "start_date_local": "2026-04-29T06:20:21Z",
     "type": "StairStepper",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 28.3,
+    "elevation_gain": 0.0,
+    "id": "18424993755",
+    "moving_time": 9.0,
+    "name": "0% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-05-08T06:38:57Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]

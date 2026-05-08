@@ -7433,6 +7433,15 @@
       "type": "StairStepper",
       "url": "https://www.strava.com/activities/18305507647",
       "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 6,
+      "name": "0% of goal\ufe0f completed! - Oura",
+      "subtype": "StairStepper",
+      "type": "StairStepper",
+      "url": "https://www.strava.com/activities/18424993755",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14065,6 +14074,15 @@
           "distance": 18.9,
           "elevation_gain": 0.0,
           "moving_time": 950.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18424993755"
+          ],
+          "count": 1,
+          "distance": 28.3,
+          "elevation_gain": 0.0,
+          "moving_time": 9.0
         }
       },
       "Walk": {
@@ -14311,7 +14329,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T16:58:43.296111+00:00",
+  "generated_at": "2026-05-08T16:20:43.868128+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
