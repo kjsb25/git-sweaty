@@ -10749,5 +10749,31 @@
     "start_date_local": "2026-05-08T06:38:57Z",
     "type": "StairStepper",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18476825999",
+    "moving_time": 4435.0,
+    "name": "Tuesday Lift (- HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-12T05:46:30Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 645.1,
+    "elevation_gain": 0.0,
+    "id": "18477206048",
+    "moving_time": 534.0,
+    "name": "Tuesday Lift (118 HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-12T05:49:45Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
