@@ -10775,5 +10775,31 @@
     "start_date_local": "2026-05-12T05:49:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 43.1,
+    "elevation_gain": 0.0,
+    "id": "18498613499",
+    "moving_time": 8.0,
+    "name": "43% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-05-13T20:03:12Z",
+    "type": "StairStepper",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18498619612",
+    "moving_time": 1211.0,
+    "name": "Steerz",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-13T20:05:47Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
