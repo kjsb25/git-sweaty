@@ -10801,5 +10801,18 @@
     "start_date_local": "2026-05-13T20:05:47Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 2278.0,
+    "elevation_gain": 0.0,
+    "id": "18511129501",
+    "moving_time": 1454.0,
+    "name": "67% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-14T18:20:45Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

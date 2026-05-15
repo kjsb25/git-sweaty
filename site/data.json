@@ -7478,6 +7478,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18498619612",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 18,
+      "name": "67% of goal\ufe0f completed! - Oura",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18511129501",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14202,6 +14211,15 @@
           "distance": 4625.2,
           "elevation_gain": 2.8,
           "moving_time": 2841.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18511129501"
+          ],
+          "count": 1,
+          "distance": 2278.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1454.0
         }
       },
       "WeightTraining": {
@@ -14393,7 +14411,7 @@
       }
     }
   },
-  "generated_at": "2026-05-14T17:05:25.646088+00:00",
+  "generated_at": "2026-05-15T16:56:04.019025+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
