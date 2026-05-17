@@ -10814,5 +10814,18 @@
     "start_date_local": "2026-05-14T18:20:45Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 5110.8,
+    "elevation_gain": 196.0,
+    "id": "18534763592",
+    "moving_time": 4648.0,
+    "name": "Horsetooth!",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-16T13:14:34Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
