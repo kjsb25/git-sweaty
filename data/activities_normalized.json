@@ -10853,5 +10853,31 @@
     "start_date_local": "2026-05-17T13:11:17Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18603516801",
+    "moving_time": 4209.0,
+    "name": "Thursday Lift (- HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-21T20:13:22Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 426.6,
+    "elevation_gain": 0.0,
+    "id": "18603536605",
+    "moving_time": 167.0,
+    "name": "Thursday Lift (132.7 HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-21T20:13:48Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
