@@ -7550,6 +7550,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18626192023",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 15,
+      "name": "Afternoon Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18641399452",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 15,
+      "name": "166% of goal\ufe0f completed! - Oura",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18641408029",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14114,6 +14132,16 @@
           "distance": 10834.9,
           "elevation_gain": 324.6,
           "moving_time": 8984.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18641399452",
+            "18641408029"
+          ],
+          "count": 2,
+          "distance": 12747.3,
+          "elevation_gain": 176.8,
+          "moving_time": 9192.0
         }
       },
       "Run": {
@@ -14513,7 +14541,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T16:08:15.259895+00:00",
+  "generated_at": "2026-05-25T17:11:35.535671+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
