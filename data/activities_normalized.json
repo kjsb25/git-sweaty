@@ -10931,5 +10931,31 @@
     "start_date_local": "2026-05-24T15:49:29Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 5661.4,
+    "elevation_gain": 150.1,
+    "id": "18654828887",
+    "moving_time": 4717.0,
+    "name": "130% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-25T15:55:35Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 6491.8,
+    "elevation_gain": 160.4,
+    "id": "18655091865",
+    "moving_time": 5105.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-25T15:55:01Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
