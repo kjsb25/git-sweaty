@@ -7554,7 +7554,7 @@
     {
       "date": "2026-05-24",
       "hour": 15,
-      "name": "Afternoon Hike",
+      "name": "Black Forest",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18641399452",
@@ -7585,6 +7585,24 @@
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18655091865",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 6,
+      "name": "Uppies",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18675116744",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 6,
+      "name": "Wednesday Lift (115.5 HR)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18675143107",
       "year": 2026
     }
   ],
@@ -14536,6 +14554,16 @@
           "distance": 426.6,
           "elevation_gain": 0.0,
           "moving_time": 4376.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18675116744",
+            "18675143107"
+          ],
+          "count": 2,
+          "distance": 384.8,
+          "elevation_gain": 0.0,
+          "moving_time": 4599.0
         }
       },
       "Workout": {
@@ -14569,7 +14597,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T18:04:57.882945+00:00",
+  "generated_at": "2026-05-27T18:06:36.445058+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",

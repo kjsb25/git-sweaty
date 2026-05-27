@@ -10912,7 +10912,7 @@
     "elevation_gain": 90.3,
     "id": "18641399452",
     "moving_time": 4686.0,
-    "name": "Afternoon Hike",
+    "name": "Black Forest",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-05-24T15:48:26Z",
@@ -10956,6 +10956,32 @@
     "raw_type": "Hike",
     "start_date_local": "2026-05-25T15:55:01Z",
     "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18675116744",
+    "moving_time": 4343.0,
+    "name": "Uppies",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-27T06:11:23Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 384.8,
+    "elevation_gain": 0.0,
+    "id": "18675143107",
+    "moving_time": 256.0,
+    "name": "Wednesday Lift (115.5 HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-27T06:16:15Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
