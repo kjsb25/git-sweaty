@@ -10983,5 +10983,18 @@
     "start_date_local": "2026-05-27T06:16:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 4748.8,
+    "elevation_gain": 0.0,
+    "id": "18750217546",
+    "moving_time": 2470.0,
+    "name": "39% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-01T19:43:03Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
