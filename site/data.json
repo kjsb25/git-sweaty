@@ -7613,6 +7613,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18750217546",
       "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 20,
+      "name": "Thursday Lift (- HR)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18885671089",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 19,
+      "name": "Thursday Lift (- HR)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18885705518",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14582,6 +14600,16 @@
           "distance": 384.8,
           "elevation_gain": 0.0,
           "moving_time": 4599.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18885671089",
+            "18885705518"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 9027.0
         }
       },
       "Workout": {
@@ -14615,7 +14643,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T18:25:38.358225+00:00",
+  "generated_at": "2026-06-12T17:40:32.190032+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
