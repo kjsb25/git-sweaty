@@ -11035,5 +11035,31 @@
     "start_date_local": "2026-06-13T20:36:30Z",
     "type": "Dance",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 29457.7,
+    "elevation_gain": 58.9,
+    "id": "19029953339",
+    "moving_time": 5775.0,
+    "name": "Scootin",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-06-22T18:29:01Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 17352.1,
+    "elevation_gain": 88.4,
+    "id": "19036558306",
+    "moving_time": 2925.0,
+    "name": "Morning Activity",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-06-23T07:49:50Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
