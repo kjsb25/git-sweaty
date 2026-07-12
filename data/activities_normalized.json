@@ -11165,5 +11165,18 @@
     "start_date_local": "2026-06-29T17:02:21Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19271800641",
+    "moving_time": 911.0,
+    "name": "STAIRS",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-07-11T10:32:45Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]
