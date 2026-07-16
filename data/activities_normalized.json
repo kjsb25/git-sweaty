@@ -11178,5 +11178,18 @@
     "start_date_local": "2026-07-11T10:32:45Z",
     "type": "StairStepper",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 18700.0,
+    "elevation_gain": 87.4,
+    "id": "19337843747",
+    "moving_time": 2423.0,
+    "name": "Morning ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-07-16T08:24:26Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
