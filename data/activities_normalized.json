@@ -11230,5 +11230,18 @@
     "start_date_local": "2026-07-17T17:30:11Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 2809.9,
+    "elevation_gain": 116.6,
+    "id": "19368880979",
+    "moving_time": 2828.0,
+    "name": "90% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-18T15:32:35Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
