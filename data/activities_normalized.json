@@ -11269,5 +11269,18 @@
     "start_date_local": "2026-07-21T22:30:58Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 34.5,
+    "elevation_gain": 0.0,
+    "id": "19445791607",
+    "moving_time": 37.0,
+    "name": "54% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-07-23T18:16:44Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
