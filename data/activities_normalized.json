@@ -11282,5 +11282,18 @@
     "start_date_local": "2026-07-23T18:16:44Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19536190383",
+    "moving_time": 673.0,
+    "name": "53% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-07-30T18:06:31Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]
