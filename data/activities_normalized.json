@@ -11295,5 +11295,31 @@
     "start_date_local": "2026-07-30T18:06:31Z",
     "type": "StairStepper",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19574649938",
+    "moving_time": 3696.0,
+    "name": "Quickie top, to fend off any DOMS for next week",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-02T12:16:46Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19574651828",
+    "moving_time": 604.0,
+    "name": "18% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-08-02T13:06:49Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]

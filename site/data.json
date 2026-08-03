@@ -7820,6 +7820,24 @@
       "type": "StairStepper",
       "url": "https://www.strava.com/activities/19536190383",
       "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 12,
+      "name": "Quickie top, to fend off any DOMS for next week",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19574649938",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 13,
+      "name": "18% of goal\ufe0f completed! - Oura",
+      "subtype": "StairStepper",
+      "type": "StairStepper",
+      "url": "https://www.strava.com/activities/19574651828",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14620,6 +14638,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 673.0
+        },
+        "2026-08-02": {
+          "activity_ids": [
+            "19574651828"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 604.0
         }
       },
       "Walk": {
@@ -14910,6 +14937,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 9027.0
+        },
+        "2026-08-02": {
+          "activity_ids": [
+            "19574649938"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3696.0
         }
       },
       "Workout": {
@@ -14963,7 +14999,7 @@
       }
     }
   },
-  "generated_at": "2026-08-02T16:07:26.591078+00:00",
+  "generated_at": "2026-08-03T17:14:07.737525+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
