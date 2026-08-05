@@ -7847,6 +7847,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19585970640",
       "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 15,
+      "name": "Afternoon ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/19604234308",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 18,
+      "name": "Night ride",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19605901355",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14437,6 +14455,15 @@
           "distance": 56800.0,
           "elevation_gain": 201.60000000000002,
           "moving_time": 9362.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "19604234308"
+          ],
+          "count": 1,
+          "distance": 28300.0,
+          "elevation_gain": 103.5,
+          "moving_time": 4850.0
         }
       },
       "Hike": {
@@ -14564,6 +14591,15 @@
           "distance": 3657.3,
           "elevation_gain": 0.0,
           "moving_time": 2726.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "19605901355"
+          ],
+          "count": 1,
+          "distance": 1100.0,
+          "elevation_gain": 0.0,
+          "moving_time": 255.0
         }
       },
       "StairStepper": {
@@ -15017,7 +15053,7 @@
       }
     }
   },
-  "generated_at": "2026-08-04T16:58:13.088284+00:00",
+  "generated_at": "2026-08-05T16:46:36.856022+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
