@@ -7892,6 +7892,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19646217985",
       "year": 2026
+    },
+    {
+      "date": "2026-08-10",
+      "hour": 18,
+      "name": "Leggies",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19689225912",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15046,6 +15055,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 12074.0
+        },
+        "2026-08-10": {
+          "activity_ids": [
+            "19689225912"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4380.0
         }
       },
       "Workout": {
@@ -15099,7 +15117,7 @@
       }
     }
   },
-  "generated_at": "2026-08-10T16:04:38.458461+00:00",
+  "generated_at": "2026-08-11T16:04:39.921830+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
