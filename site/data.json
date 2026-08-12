@@ -7901,6 +7901,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19689225912",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 14,
+      "name": "Afternoon ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/19702630095",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 22,
+      "name": "Night ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/19706018197",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14500,6 +14518,16 @@
           "distance": 28300.0,
           "elevation_gain": 103.5,
           "moving_time": 4850.0
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "19702630095",
+            "19706018197"
+          ],
+          "count": 2,
+          "distance": 56800.0,
+          "elevation_gain": 206.8,
+          "moving_time": 9984.0
         }
       },
       "Hike": {
@@ -15117,7 +15145,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T16:04:39.921830+00:00",
+  "generated_at": "2026-08-12T16:03:27.637691+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
