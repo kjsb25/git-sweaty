@@ -11438,5 +11438,18 @@
     "start_date_local": "2026-08-11T22:20:18Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 15955.1,
+    "elevation_gain": 130.1,
+    "id": "19801051442",
+    "moving_time": 3654.0,
+    "name": "Estes Park E bike ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-08-18T13:56:41Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
