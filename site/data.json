@@ -7928,6 +7928,42 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/19801051442",
       "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 9,
+      "name": "56% of goal\ufe0f completed! - Oura",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19827056257",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 10,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19829296253",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 14,
+      "name": "Afternoon Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19829296353",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 15,
+      "name": "Afternoon Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19830994604",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14633,6 +14669,18 @@
           "distance": 2809.9,
           "elevation_gain": 116.6,
           "moving_time": 2828.0
+        },
+        "2026-08-20": {
+          "activity_ids": [
+            "19827056257",
+            "19829296253",
+            "19829296353",
+            "19830994604"
+          ],
+          "count": 4,
+          "distance": 7368.099999999999,
+          "elevation_gain": 207.40000000000003,
+          "moving_time": 6941.0
         }
       },
       "Run": {
@@ -15163,7 +15211,7 @@
       }
     }
   },
-  "generated_at": "2026-08-20T15:40:19.748134+00:00",
+  "generated_at": "2026-08-21T15:40:29.383332+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
