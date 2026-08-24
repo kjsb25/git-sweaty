@@ -7941,7 +7941,7 @@
     {
       "date": "2026-08-20",
       "hour": 10,
-      "name": "Morning Hike",
+      "name": "Falls - RMNP",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/19829296253",
@@ -7963,6 +7963,24 @@
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/19830994604",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 11,
+      "name": "Sunday Lift (- HR)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19869725590",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 11,
+      "name": "Sunday Lift (107.7 HR)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19869757753",
       "year": 2026
     }
   ],
@@ -15158,6 +15176,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4380.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19869725590",
+            "19869757753"
+          ],
+          "count": 2,
+          "distance": 89.3,
+          "elevation_gain": 0.0,
+          "moving_time": 5498.0
         }
       },
       "Workout": {
@@ -15211,7 +15239,7 @@
       }
     }
   },
-  "generated_at": "2026-08-23T15:29:23.443094+00:00",
+  "generated_at": "2026-08-24T15:46:57.531073+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",

@@ -11471,7 +11471,7 @@
     "elevation_gain": 55.5,
     "id": "19829296253",
     "moving_time": 1470.0,
-    "name": "Morning Hike",
+    "name": "Falls - RMNP",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-08-20T10:12:52Z",
@@ -11502,6 +11502,32 @@
     "raw_type": "Hike",
     "start_date_local": "2026-08-20T15:30:57Z",
     "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19869725590",
+    "moving_time": 5444.0,
+    "name": "Sunday Lift (- HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-23T11:19:54Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 89.3,
+    "elevation_gain": 0.0,
+    "id": "19869757753",
+    "moving_time": 54.0,
+    "name": "Sunday Lift (107.7 HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-23T11:37:39Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
