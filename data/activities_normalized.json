@@ -11542,5 +11542,18 @@
     "start_date_local": "2026-08-25T06:43:56Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19940279277",
+    "moving_time": 4150.0,
+    "name": "Leggies the Second",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-28T13:01:45Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

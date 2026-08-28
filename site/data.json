@@ -7991,6 +7991,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19893442297",
       "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 13,
+      "name": "Leggies the Second",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19940279277",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15204,6 +15213,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3300.0
+        },
+        "2026-08-28": {
+          "activity_ids": [
+            "19940279277"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4150.0
         }
       },
       "Workout": {
@@ -15257,7 +15275,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T00:21:03.281830+00:00",
+  "generated_at": "2026-08-28T23:59:20.607156+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
