@@ -8000,6 +8000,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19940279277",
       "year": 2026
+    },
+    {
+      "date": "2026-08-31",
+      "hour": 15,
+      "name": "Uppies",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19982060824",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15222,6 +15231,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4150.0
+        },
+        "2026-08-31": {
+          "activity_ids": [
+            "19982060824"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4391.0
         }
       },
       "Workout": {
@@ -15275,7 +15293,7 @@
       }
     }
   },
-  "generated_at": "2026-08-31T20:45:26.226187+00:00",
+  "generated_at": "2026-09-01T18:20:21.332287+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",

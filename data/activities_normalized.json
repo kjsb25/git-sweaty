@@ -11555,5 +11555,18 @@
     "start_date_local": "2026-08-28T13:01:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19982060824",
+    "moving_time": 4391.0,
+    "name": "Uppies",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-31T15:05:40Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
