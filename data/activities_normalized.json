@@ -11568,5 +11568,44 @@
     "start_date_local": "2026-08-31T15:05:40Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 25200.0,
+    "elevation_gain": 98.9,
+    "id": "19996695673",
+    "moving_time": 3937.0,
+    "name": "Afternoon ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-01T14:14:43Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 3000.0,
+    "elevation_gain": 3.1,
+    "id": "19997489716",
+    "moving_time": 594.0,
+    "name": "Afternoon ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-01T16:31:33Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 28200.0,
+    "elevation_gain": 96.9,
+    "id": "20001015219",
+    "moving_time": 5310.0,
+    "name": "Night ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-01T22:57:39Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
