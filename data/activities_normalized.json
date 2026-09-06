@@ -11633,5 +11633,18 @@
     "start_date_local": "2026-09-03T19:44:15Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20052190193",
+    "moving_time": 4682.0,
+    "name": "Saturday Lift (- HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-05T13:16:08Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
