@@ -11646,5 +11646,18 @@
     "start_date_local": "2026-09-05T13:16:08Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 675.6,
+    "elevation_gain": 5.1,
+    "id": "20221260229",
+    "moving_time": 183.0,
+    "name": "34% of goal\ufe0f completed! - Oura",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-09-17T18:31:18Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
