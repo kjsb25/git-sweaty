@@ -11672,5 +11672,44 @@
     "start_date_local": "2026-09-21T10:53:29Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 7134.3,
+    "elevation_gain": 314.5,
+    "id": "20386219338",
+    "moving_time": 7783.0,
+    "name": "Gem Lake!",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-27T11:33:51Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 27600.0,
+    "elevation_gain": 105.2,
+    "id": "20384921025",
+    "moving_time": 4593.0,
+    "name": "Afternoon ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-29T14:50:25Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 13800.0,
+    "elevation_gain": 32.2,
+    "id": "20388172706",
+    "moving_time": 2510.0,
+    "name": "Night ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-29T22:29:59Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
