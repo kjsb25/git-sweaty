@@ -8126,6 +8126,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/20436827700",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 14,
+      "name": "Afternoon ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/20480561763",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 14,
+      "name": "33% of goal\ufe0f completed! - Oura",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20480583466",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14765,6 +14783,15 @@
           "distance": 41400.0,
           "elevation_gain": 137.4,
           "moving_time": 7103.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20480561763"
+          ],
+          "count": 1,
+          "distance": 15200.0,
+          "elevation_gain": 45.8,
+          "moving_time": 2774.0
         }
       },
       "Hike": {
@@ -15470,6 +15497,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1268.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20480583466"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3634.0
         }
       },
       "Yoga": {
@@ -15503,7 +15539,7 @@
       }
     }
   },
-  "generated_at": "2026-10-06T20:08:14.443445+00:00",
+  "generated_at": "2026-10-07T20:32:35.618032+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/46689018",
   "repo": "kjsb25/git-sweaty",
