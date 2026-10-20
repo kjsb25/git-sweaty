@@ -11789,5 +11789,31 @@
     "start_date_local": "2026-10-15T18:29:24Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20653348401",
+    "moving_time": 4468.0,
+    "name": "Monday Lift (- HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-19T15:14:06Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20653461398",
+    "moving_time": 4876.0,
+    "name": "Monday Lift (- HR)",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-19T15:15:26Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
